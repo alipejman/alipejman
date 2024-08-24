@@ -17,16 +17,12 @@ I've had the privilege of collaborating with several companies, including:
 I am proficient in the following technologies:  
 <p>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  
+<img alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+<img alt="Node.js" src="https://img.icons8.com/?size=100&id=54087&format=png&color=ffffff" />
+<img alt="Express.js"  src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=ffffff" />
+<img alt="Nest.js" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
+<img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 
-</p> 
 
 ## 🚀 Current Engagement  
 Currently, I am working as a **Backend Developer** for the Golestan Karate Federation (2024).  
@@ -34,7 +30,7 @@ Currently, I am working as a **Backend Developer** for the Golestan Karate Feder
 ## 📫 Get in Touch  
 Feel free to reach out to me:  
 - 📱 **Telegram**: [@alicoder_js](https://t.me/alicoder_js)  
-- 📞 **WhatsApp**: +989117024296  
+- 📞 **WhatsApp**: [+989117024296](tel:+989117024296)
 
 ---  
 
