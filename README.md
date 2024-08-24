@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ali pejman!  
+# 👋 Hi , this is αℓi pejman!  
 
 ## 🎓 About Me  
 I am a dedicated student pursuing a degree in English Translation, with 4 years of web development experience. My passion for coding and language motivates me to create seamless web applications.  
