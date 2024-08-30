@@ -1,6 +1,6 @@
-# 👋 Hi , this is αℓi pejman!  
+# αℓi pejman
 
-## 🎓 About Me  
+## 🎓 About  
 I am a dedicated student pursuing a degree in English Translation, with 4 years of web development experience. My passion for coding and language motivates me to create seamless web applications.  
 
 ## 💼 Experience  
@@ -30,8 +30,6 @@ Currently, I am working as a **Backend Developer** for the Golestan Karate Feder
 ## 📫 Get in Touch  
 Feel free to reach out to me:  
 - 📱 **Telegram**: [@alicoder_js](https://t.me/alicoder_js)  
-- 📞 **WhatsApp**: [+989117024296](tel:+989117024296)
-
 ---  
 
 Thanks for visiting my profile! Let’s connect and collaborate! 😊
