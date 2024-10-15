@@ -29,7 +29,7 @@ Currently, I am working as a **Backend Developer** for the Golestan Karate Feder
 
 ## 📫 Get in Touch  
 Feel free to reach out to me:  
-- 📱 **Telegram**: [@alicoder_js](https://t.me/alicoder_js)  
+- 📱 **Telegram**: [@alicod](https://t.me/alicod)  
 ---  
 
 Thanks for visiting my profile! Let’s connect and collaborate! 😊
