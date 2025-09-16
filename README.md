@@ -42,7 +42,7 @@ I've had the privilege of collaborating with several companies, including:
 Currently, I am working as a **Backend Developer** for the Golestan Karate Federation (2024).  
 
 ## 📫 Get in Touch  
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />]([https://t.me/alipejjman](https://t.me/Alidev_me))
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Alidev_me)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alipejman.dev@gmail.com)
 
 Thanks for visiting my profile! Let’s connect and collaborate! 😊
